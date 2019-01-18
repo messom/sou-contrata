@@ -7,7 +7,8 @@
 
 HTTP requisição | Descrição | Exemplo
 ------------- | ------------- | -------------
-**GET** /student/{id} | Exibe o estudante pelo id | *http://localhost:3001/api/v1/student/1*
+**GET** /notices/{id} | Exibe todos os editais | *http://localhost:3001/api/v1/notices/*
+
 
 
 
